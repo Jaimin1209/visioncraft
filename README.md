@@ -19,12 +19,12 @@ Imagify is an AI-powered image generation SaaS web application built with the ME
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shozabali06/Imagify.git
+git clone https://github.com/jaimin1209/visioncraft.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd Imagify
+cd visioncraft
 ```
 
 ### Server Setup
