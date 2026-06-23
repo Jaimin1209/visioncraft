@@ -4,7 +4,7 @@
 [Click here to view the live demo](https://imagify-shozab.vercel.app/) <!-- Replace # with the actual live demo link -->
 
 ## Description
-Imagify is an AI-powered image generation SaaS web application built with the MERN stack. It uses the Clipdrop API to generate high-quality images and includes a secure login/signup system.
+visioncraft is an AI-powered image generation SaaS web application built with the MERN stack. It uses the Clipdrop API to generate high-quality images and includes a secure login/signup system.
 
 ---
 
